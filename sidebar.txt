@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctc:home|Door43 (ctc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctc|d43-ctc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctc/archive/master.zip|d43-ctc.zip]]
+
+**Recent Changes**
+{{changes>ns = ctc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctc|Ethnologue data]]
+
